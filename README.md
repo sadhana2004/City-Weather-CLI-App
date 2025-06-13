@@ -136,6 +136,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Sadhana Avanigadda**
 Built with 💻 Python + wttr.in + Passion for clean CLI tools.
-
 ```
-
