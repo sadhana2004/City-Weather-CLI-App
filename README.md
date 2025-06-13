@@ -6,13 +6,13 @@ This is a Python-based Command Line Interface (CLI) tool that fetches real-time 
 
 ##  Features
 
-- ✅ Fetch live weather data for multiple cities
-- 🌡️ Filter cities by min/max temperature
-- 🌎 Choose between Celsius and Fahrenheit
-- 📁 Output results to JSON or CSV
-- 🧠 Group results by weather condition
-- 🪵 Built-in logging (`weather_cli.log`)
-- 📦 Easy-to-use command-line arguments
+- Fetch live weather data for multiple cities
+- Filter cities by min/max temperature
+- Choose between Celsius and Fahrenheit
+- Output results to JSON or CSV
+- Group results by weather condition
+- Built-in logging (`weather_cli.log`)
+- Easy-to-use command-line arguments
 
 ---
 
@@ -25,3 +25,5 @@ Install dependencies:
 
 ```bash
 pip install requests
+
+# Folder Structure
